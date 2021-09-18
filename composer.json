@@ -1,0 +1,11 @@
+{
+    "name": "tsybenko/url-shortener",
+    "type": "project",
+    "authors": [
+        {
+            "name": "tsybenko",
+            "email": "tsybenko.dmitry@gmail.com"
+        }
+    ],
+    "require": {}
+}
